@@ -1,0 +1,40 @@
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\appsettings.Development.json
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\appsettings.json
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.staticwebassets.runtime.json
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.exe
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.deps.json
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.runtimeconfig.json
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Employ management.pdb
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.csproj.AssemblyReference.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.GeneratedMSBuildEditorConfig.editorconfig
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.AssemblyInfoInputs.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.AssemblyInfo.cs
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.csproj.CoreCompileInputs.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.MvcApplicationPartsAssemblyInfo.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.RazorAssemblyInfo.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.RazorAssemblyInfo.cs
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets\msbuild.Employ management.Microsoft.AspNetCore.StaticWebAssets.props
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets\msbuild.build.Employ management.props
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employ management.props
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employ management.props
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets.pack.json
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets.build.json
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\staticwebassets.development.json
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\scopedcss\bundle\Employ management.styles.css
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\scopedcss\projectbundle\Employ management.bundle.scp.css
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.dll
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\refint\Employ management.dll
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.pdb
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.genruntimeconfig.cache
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\ref\Employ management.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Humanizer.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Npgsql.dll
+P:\Employ-management\Employ management\Employ management\obj\Debug\net6.0\Employ management.csproj.CopyComplete
+P:\Employ-management\Employ management\Employ management\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
